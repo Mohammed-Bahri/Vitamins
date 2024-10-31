@@ -1,0 +1,5 @@
+body{ background-color: rgb(207, 244, 253);}
+h1{ color:rgb(6, 93, 255); font-family:'Calibri';}
+p{ color:rgb(6, 93, 255); font-family:'Calibri' ; font-size:larger;}
+nav,a{font-family: "Calibri"; font-size: larger; color: rgb(6, 93, 255);}
+video{ float: left ; border-color: rgb(39, 139, 0); border-spacing: 4px;}

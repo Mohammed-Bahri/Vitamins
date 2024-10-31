@@ -1,0 +1,6 @@
+body{background-color:rgb(239, 185, 255);}
+h1{ color:rgb(137, 10, 255); font-family:'Calibri';}
+nav,a,p{font-family: "Calibri"; font-size: larger; color: #910aff;}
+img{ float: left ;border-radius: 15%; border-color: rgb(83, 0, 139); border-spacing: 4px;}
+table{background-color: rgb(214, 152, 255); margin: 20px; border-color: rgb(198, 10, 255);}
+td{font-family: "Calibri"; font-size: x-large; color: rgb(157, 10, 255);}
